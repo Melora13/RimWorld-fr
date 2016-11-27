@@ -207,3 +207,6 @@ pic vert
 ver
 yak
 zèbre
+casoar
+loup arctique
+loup des bois

@@ -13,6 +13,6 @@
     
     <Insult.label>insulte</Insult.label>
     <Insult.logRulesInitiator.rulesStrings.0>logentry->A insulté [other_nameShortIndef].</Insult.logRulesInitiator.rulesStrings.0>
-    <Insult.logRulesRecipient.rulesStrings.0>logentry->S'est fait insulté par [other_nameShortIndef].</Insult.logRulesRecipient.rulesStrings.0>
+    <Insult.logRulesRecipient.rulesStrings.0>logentry->S'est fait insulter par [other_nameShortIndef].</Insult.logRulesRecipient.rulesStrings.0>
     
 </LanguageData>

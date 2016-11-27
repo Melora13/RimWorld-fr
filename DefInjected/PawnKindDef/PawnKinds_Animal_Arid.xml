@@ -2,13 +2,15 @@
 <LanguageData>
 	
 	<Muffalo.label>Muffalo</Muffalo.label>
-	<Muffalo.lifeStages.0.label>veau Muffalo</Muffalo.lifeStages.0.label>
+	<Muffalo.lifeStages.0.label>Veau muffalo</Muffalo.lifeStages.0.label>
 
-	<Iguana.label>iguane</Iguana.label>
+	<Iguana.label>Iguane</Iguana.label>
+	<Iguana.lifeStages.0.label>Bébé iguane</Iguana.lifeStages.0.label>
+	
+	<Rhinoceros.label>Rhinocéros</Rhinoceros.label>
+	<Rhinoceros.lifeStages.0.label>Bébé rhinocéros</Rhinoceros.lifeStages.0.label>
 
-	<Rhinoceros.label>rhinocéros</Rhinoceros.label>
-
-	<Dromedary.label>dromadaire</Dromedary.label>
-	<Dromedary.lifeStages.0.label>bébé dromadaire</Dromedary.lifeStages.0.label>
+	<Dromedary.label>Dromadaire</Dromedary.label>
+	<Dromedary.lifeStages.0.label>Bébé dromadaire</Dromedary.lifeStages.0.label>
 
 </LanguageData>
